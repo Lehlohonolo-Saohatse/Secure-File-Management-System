@@ -1,6 +1,6 @@
 # Secure File Management System (SFMS)
 
-![SFMS Logo](https://via.placeholder.com/800x400?text=SFMS+Logo) <!-- Placeholder; replace with actual logo image -->
+![SFMS Logo](https://github.com/Lehlohonolo-Saohatse/Secure-File-Management-System/logo.jpg) 
 
 A secure, cloud-based file management platform for the South African Police Service (SAPS), emphasizing security, accountability, and compliance with South African data protection laws.
 
