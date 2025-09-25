@@ -20,22 +20,6 @@
 </p>
 
 
----
-
-## 📑 Table of Contents
-- [Overview](#overview)
-- [Objectives](#objectives)
-- [Features](#features)
-- [System Architecture](#system-architecture)
-- [Technologies Used](#technologies-used)
-- [User Interface](#user-interface)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Author](#author)
-
----
 
 ## 📝 Overview
 The **Secure File Management System (SFMS)** is a **cloud-based solution** designed to digitize, manage, and secure files and dockets for the **South African Police Service (SAPS)**.  
