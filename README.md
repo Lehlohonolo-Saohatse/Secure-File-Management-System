@@ -14,7 +14,11 @@
   </a>
   <img src="https://img.shields.io/badge/Version-1.0-blue.svg" alt="Version 1.0"/>
   <img src="https://img.shields.io/badge/Status-Design%20Phase-orange" alt="Status"/>
+  <a href="sfms/File_Management_System.pdf">
+    <img src="https://img.shields.io/badge/Docs-PDF-blueviolet?logo=adobeacrobatreader&logoColor=white" alt="Documentation"/>
+  </a>
 </p>
+
 
 ---
 
